@@ -7,3 +7,5 @@ naive-model "today will be as poluted as yesterday", a standard dummy naive-mode
 operated meteo-stations of IAOS in Sofia.
 
 The code can be also viewed on colab: https://colab.research.google.com/drive/1_UVt6wUKmodF2y7AfFCSo7uWKd6WoH1y?usp=sharing
+
+![alt text](https://github.com/Nestak2/LSTM_PM10_airpolution_Sofia/blob/main/LSTM_P10_Sofia_readme.png)
